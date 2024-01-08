@@ -1,6 +1,6 @@
 # BMI_Calculator
 We know that The Body Mass Index (BMI) Calculator can be used to calculate BMI values based on height and weight.
-To find out BMI we will take input from the user (both height and weight) which will be stored in height and weight variables for further calculation. 
+To find out BMI we take input from the user (both height and weight) which will be stored in height and weight variables for further calculation. 
 The calculation process is simple, we will simply divide weight in kilograms by the square of the height.
 
 Using HTML we are giving desired structure, an option for the input, and submit button. 
